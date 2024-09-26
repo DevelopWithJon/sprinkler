@@ -1,0 +1,7 @@
+https://www.amazon.com/gp/customer-reviews/R17W6CC8EV091U?ref=dp_vse_ibvc_sml
+
+5964bc9c24894ec0aede2f1ee1a90242
+
+https://api.weatherbit.io/v2.0/history/subhourly?lat=35.78&lon=78.64&start_date=2024-09-18&end_date=2024-09-19&key=5964bc9c24894ec0aede2f1ee1a90242
+
+f7268441bc5a454cb0422006242209

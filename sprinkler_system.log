@@ -1,0 +1,154 @@
+2024-09-26 13:04:21,693 - INFO - Starting main function execution
+2024-09-26 13:04:21,693 - INFO - Opening results.json
+2024-09-26 13:04:21,693 - INFO - Using cached results from today
+2024-09-26 13:04:21,694 - INFO - Main function execution completed
+2024-09-26 13:05:29,867 - INFO - Starting main function execution
+2024-09-26 13:05:29,867 - INFO - Opening results.json
+2024-09-26 13:05:29,868 - INFO - Using cached results from today
+2024-09-26 13:05:29,869 - INFO - Main function execution completed
+2024-09-26 13:10:51,049 - INFO - Starting main function execution
+2024-09-26 13:10:51,050 - INFO - Opening results.json
+2024-09-26 13:10:51,050 - WARNING - results.json not found or invalid. Initializing empty results.
+2024-09-26 13:10:51,050 - INFO - New execution required for today
+2024-09-26 13:10:51,173 - INFO - Writing new results to results.json
+2024-09-26 13:10:51,174 - INFO - Main function execution completed
+2024-09-26 13:17:08,598 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-26 13:17:08,599 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-26 13:17:08,600 - INFO -  * Restarting with stat
+2024-09-26 13:17:09,240 - WARNING -  * Debugger is active!
+2024-09-26 13:17:09,264 - INFO -  * Debugger PIN: 879-244-265
+2024-09-26 13:17:20,191 - INFO - Starting get_sprinkler_message function execution
+2024-09-26 13:17:20,192 - INFO - Opening results.json
+2024-09-26 13:17:20,193 - INFO - Using cached results from today
+2024-09-26 13:17:20,193 - INFO - get_sprinkler_message function execution completed
+2024-09-26 13:17:20,195 - INFO - 127.0.0.1 - - [26/Sep/2024 13:17:20] "GET / HTTP/1.1" 200 -
+2024-09-26 13:17:20,567 - INFO - 127.0.0.1 - - [26/Sep/2024 13:17:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-09-26 13:17:23,426 - INFO - Starting get_sprinkler_message function execution
+2024-09-26 13:17:23,427 - INFO - Opening results.json
+2024-09-26 13:17:23,427 - INFO - Using cached results from today
+2024-09-26 13:17:23,427 - INFO - get_sprinkler_message function execution completed
+2024-09-26 13:17:23,427 - INFO - 127.0.0.1 - - [26/Sep/2024 13:17:23] "GET / HTTP/1.1" 200 -
+2024-09-26 13:17:24,892 - INFO - Starting get_sprinkler_message function execution
+2024-09-26 13:17:24,893 - INFO - Opening results.json
+2024-09-26 13:17:24,893 - INFO - Using cached results from today
+2024-09-26 13:17:24,893 - INFO - get_sprinkler_message function execution completed
+2024-09-26 13:17:24,893 - INFO - 127.0.0.1 - - [26/Sep/2024 13:17:24] "GET / HTTP/1.1" 200 -
+2024-09-26 13:26:07,291 - INFO -  * Detected change in '/Users/jonathanbaptiste/Desktop/Projects/Sprinkler/main.py', reloading
+2024-09-26 13:26:07,458 - INFO -  * Restarting with stat
+2024-09-26 13:26:08,854 - WARNING -  * Debugger is active!
+2024-09-26 13:26:08,867 - INFO -  * Debugger PIN: 879-244-265
+2024-09-26 13:26:15,952 - INFO - Starting get_sprinkler_message function execution
+2024-09-26 13:26:15,952 - INFO - Opening results.json
+2024-09-26 13:26:15,953 - INFO - Using cached results from today
+2024-09-26 13:26:15,954 - INFO - get_sprinkler_message function execution completed
+2024-09-26 13:26:15,955 - INFO - 127.0.0.1 - - [26/Sep/2024 13:26:15] "GET / HTTP/1.1" 200 -
+2024-09-26 13:27:12,328 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-26 13:27:12,328 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-26 13:27:12,331 - INFO -  * Restarting with stat
+2024-09-26 13:27:12,974 - WARNING -  * Debugger is active!
+2024-09-26 13:27:12,985 - INFO -  * Debugger PIN: 879-244-265
+2024-09-26 13:27:16,095 - INFO - 127.0.0.1 - - [26/Sep/2024 13:27:16] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-09-26 13:27:16,224 - INFO - 127.0.0.1 - - [26/Sep/2024 13:27:16] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-09-26 13:27:16,225 - INFO - 127.0.0.1 - - [26/Sep/2024 13:27:16] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-09-26 13:27:16,262 - INFO - 127.0.0.1 - - [26/Sep/2024 13:27:16] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=Vaidjkqf7blzW2g18E5j HTTP/1.1" 200 -
+2024-09-26 13:27:16,269 - INFO - 127.0.0.1 - - [26/Sep/2024 13:27:16] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-09-26 13:27:16,365 - INFO - 127.0.0.1 - - [26/Sep/2024 13:27:16] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-09-26 13:27:52,797 - INFO - 127.0.0.1 - - [26/Sep/2024 13:27:52] "GET / HTTP/1.1" 200 -
+2024-09-26 13:27:54,951 - INFO - 127.0.0.1 - - [26/Sep/2024 13:27:54] "[32mPOST /sprinkler_action HTTP/1.1[0m" 302 -
+2024-09-26 13:27:54,960 - INFO - 127.0.0.1 - - [26/Sep/2024 13:27:54] "GET / HTTP/1.1" 200 -
+2024-09-26 13:28:08,865 - INFO - 127.0.0.1 - - [26/Sep/2024 13:28:08] "[31m[1mGET /sprinkler_action HTTP/1.1[0m" 405 -
+2024-09-26 13:28:23,645 - INFO - Starting get_sprinkler_message function execution
+2024-09-26 13:28:23,646 - INFO - Opening results.json
+2024-09-26 13:28:23,647 - ERROR - An error occurred: 'date'
+Traceback (most recent call last):
+  File "/Users/jonathanbaptiste/Desktop/Projects/Sprinkler/app.py", line 82, in get_message
+    message = get_sprinkler_message()
+  File "/Users/jonathanbaptiste/Desktop/Projects/Sprinkler/app.py", line 46, in get_sprinkler_message
+    if results["date"] != today:
+KeyError: 'date'
+2024-09-26 13:28:23,648 - INFO - 127.0.0.1 - - [26/Sep/2024 13:28:23] "[35m[1mGET /get_message HTTP/1.1[0m" 500 -
+2024-09-26 13:29:08,961 - INFO -  * Detected change in '/Users/jonathanbaptiste/Desktop/Projects/Sprinkler/app.py', reloading
+2024-09-26 13:29:09,108 - INFO -  * Restarting with stat
+2024-09-26 13:29:10,525 - WARNING -  * Debugger is active!
+2024-09-26 13:29:10,538 - INFO -  * Debugger PIN: 879-244-265
+2024-09-26 13:29:13,369 - INFO - Starting get_sprinkler_message function execution
+2024-09-26 13:29:13,369 - INFO - Opening results.json
+2024-09-26 13:29:13,369 - ERROR - An error occurred: 'date'
+Traceback (most recent call last):
+  File "/Users/jonathanbaptiste/Desktop/Projects/Sprinkler/app.py", line 82, in get_message
+    message = get_sprinkler_message()
+  File "/Users/jonathanbaptiste/Desktop/Projects/Sprinkler/app.py", line 46, in get_sprinkler_message
+    if results["date"] != today:
+KeyError: 'date'
+2024-09-26 13:29:13,371 - INFO - 127.0.0.1 - - [26/Sep/2024 13:29:13] "[35m[1mGET /get_message HTTP/1.1[0m" 500 -
+2024-09-26 13:29:14,652 - INFO - Starting get_sprinkler_message function execution
+2024-09-26 13:29:14,653 - INFO - Opening results.json
+2024-09-26 13:29:14,653 - ERROR - An error occurred: 'date'
+Traceback (most recent call last):
+  File "/Users/jonathanbaptiste/Desktop/Projects/Sprinkler/app.py", line 82, in get_message
+    message = get_sprinkler_message()
+  File "/Users/jonathanbaptiste/Desktop/Projects/Sprinkler/app.py", line 46, in get_sprinkler_message
+    if results["date"] != today:
+KeyError: 'date'
+2024-09-26 13:29:14,653 - INFO - 127.0.0.1 - - [26/Sep/2024 13:29:14] "[35m[1mGET /get_message HTTP/1.1[0m" 500 -
+2024-09-26 13:30:37,927 - INFO -  * Detected change in '/Users/jonathanbaptiste/Desktop/Projects/Sprinkler/app.py', reloading
+2024-09-26 13:30:38,092 - INFO -  * Restarting with stat
+2024-09-26 13:30:39,275 - WARNING -  * Debugger is active!
+2024-09-26 13:30:39,288 - INFO -  * Debugger PIN: 879-244-265
+2024-09-26 13:30:43,404 - INFO - Starting get_sprinkler_message function execution
+2024-09-26 13:30:43,404 - INFO - Opening results.json
+2024-09-26 13:30:43,405 - ERROR - An error occurred: 'date'
+Traceback (most recent call last):
+  File "/Users/jonathanbaptiste/Desktop/Projects/Sprinkler/app.py", line 84, in get_message
+    message = get_sprinkler_message()
+  File "/Users/jonathanbaptiste/Desktop/Projects/Sprinkler/app.py", line 48, in get_sprinkler_message
+    if results["date"] != today:
+KeyError: 'date'
+2024-09-26 13:30:43,409 - INFO - 127.0.0.1 - - [26/Sep/2024 13:30:43] "[35m[1mGET /get_message HTTP/1.1[0m" 500 -
+2024-09-26 13:30:59,708 - INFO -  * Detected change in '/Users/jonathanbaptiste/Desktop/Projects/Sprinkler/app.py', reloading
+2024-09-26 13:30:59,899 - INFO -  * Restarting with stat
+2024-09-26 13:31:01,232 - WARNING -  * Debugger is active!
+2024-09-26 13:31:01,245 - INFO -  * Debugger PIN: 879-244-265
+2024-09-26 13:31:11,436 - INFO -  * Detected change in '/Users/jonathanbaptiste/Desktop/Projects/Sprinkler/app.py', reloading
+2024-09-26 13:31:11,587 - INFO -  * Restarting with stat
+2024-09-26 13:31:12,245 - WARNING -  * Debugger is active!
+2024-09-26 13:31:12,257 - INFO -  * Debugger PIN: 879-244-265
+2024-09-26 13:31:15,975 - INFO - Starting get_sprinkler_message function execution
+2024-09-26 13:31:15,975 - INFO - Opening results.json
+2024-09-26 13:31:15,976 - ERROR - An error occurred: 'date'
+Traceback (most recent call last):
+  File "/Users/jonathanbaptiste/Desktop/Projects/Sprinkler/app.py", line 85, in get_message
+    message = get_sprinkler_message()
+  File "/Users/jonathanbaptiste/Desktop/Projects/Sprinkler/app.py", line 49, in get_sprinkler_message
+    if results["date"] != today:
+KeyError: 'date'
+2024-09-26 13:31:15,977 - INFO - 127.0.0.1 - - [26/Sep/2024 13:31:15] "[35m[1mGET /get_message HTTP/1.1[0m" 500 -
+2024-09-26 13:32:57,036 - INFO -  * Detected change in '/Users/jonathanbaptiste/Desktop/Projects/Sprinkler/app.py', reloading
+2024-09-26 13:32:57,206 - INFO -  * Restarting with stat
+2024-09-26 13:32:58,382 - WARNING -  * Debugger is active!
+2024-09-26 13:32:58,391 - INFO -  * Debugger PIN: 879-244-265
+2024-09-26 13:33:14,667 - INFO -  * Detected change in '/Users/jonathanbaptiste/Desktop/Projects/Sprinkler/app.py', reloading
+2024-09-26 13:33:14,808 - INFO -  * Restarting with stat
+2024-09-26 13:33:15,448 - WARNING -  * Debugger is active!
+2024-09-26 13:33:15,458 - INFO -  * Debugger PIN: 879-244-265
+2024-09-26 13:33:23,605 - INFO -  * Detected change in '/Users/jonathanbaptiste/Desktop/Projects/Sprinkler/app.py', reloading
+2024-09-26 13:33:23,731 - INFO -  * Restarting with stat
+2024-09-26 13:33:24,410 - WARNING -  * Debugger is active!
+2024-09-26 13:33:24,420 - INFO -  * Debugger PIN: 879-244-265
+2024-09-26 13:33:30,478 - INFO - 127.0.0.1 - - [26/Sep/2024 13:33:30] "GET / HTTP/1.1" 200 -
+2024-09-26 13:33:31,782 - INFO - 127.0.0.1 - - [26/Sep/2024 13:33:31] "[32mPOST /sprinkler_action HTTP/1.1[0m" 302 -
+2024-09-26 13:33:31,805 - INFO - 127.0.0.1 - - [26/Sep/2024 13:33:31] "GET / HTTP/1.1" 200 -
+2024-09-26 13:33:37,982 - INFO - Starting get_sprinkler_message function execution
+2024-09-26 13:33:37,983 - INFO - Opening results.json
+2024-09-26 13:33:37,983 - INFO - Using cached results from today
+2024-09-26 13:33:37,983 - INFO - get_sprinkler_message function execution completed
+2024-09-26 13:33:37,983 - INFO - 127.0.0.1 - - [26/Sep/2024 13:33:37] "GET /get_message HTTP/1.1" 200 -
+2024-09-26 13:33:42,049 - INFO - 127.0.0.1 - - [26/Sep/2024 13:33:42] "[32mPOST /sprinkler_action HTTP/1.1[0m" 302 -
+2024-09-26 13:33:42,064 - INFO - 127.0.0.1 - - [26/Sep/2024 13:33:42] "GET / HTTP/1.1" 200 -
+2024-09-26 13:33:44,478 - INFO - Starting get_sprinkler_message function execution
+2024-09-26 13:33:44,478 - INFO - Opening results.json
+2024-09-26 13:33:44,479 - INFO - Using cached results from today
+2024-09-26 13:33:44,479 - INFO - get_sprinkler_message function execution completed
+2024-09-26 13:33:44,479 - INFO - 127.0.0.1 - - [26/Sep/2024 13:33:44] "GET /get_message HTTP/1.1" 200 -
