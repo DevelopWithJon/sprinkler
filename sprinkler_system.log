@@ -1377,3 +1377,21 @@ TypeError: can't subtract offset-naive and offset-aware datetimes
 2024-09-26 17:51:16,679 - INFO -  * Restarting with stat
 2024-09-26 17:51:17,342 - WARNING -  * Debugger is active!
 2024-09-26 17:51:17,351 - INFO -  * Debugger PIN: 116-280-417
+2024-09-26 18:14:21,831 - INFO - 127.0.0.1 - - [26/Sep/2024 18:14:21] "GET / HTTP/1.1" 200 -
+2024-09-26 18:14:22,806 - INFO - 127.0.0.1 - - [26/Sep/2024 18:14:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-09-26 18:36:50,712 - INFO - 127.0.0.1 - - [26/Sep/2024 18:36:50] "GET / HTTP/1.1" 200 -
+2024-09-26 21:26:01,226 - INFO - 127.0.0.1 - - [26/Sep/2024 21:26:01] "[32mPOST /sprinkler_action HTTP/1.1[0m" 302 -
+2024-09-26 21:26:01,271 - INFO - 127.0.0.1 - - [26/Sep/2024 21:26:01] "GET / HTTP/1.1" 200 -
+2024-09-26 21:27:35,843 - INFO - 127.0.0.1 - - [26/Sep/2024 21:27:35] "GET / HTTP/1.1" 200 -
+2024-09-26 21:27:45,044 - INFO - Starting get_sprinkler_message function execution
+2024-09-26 21:27:45,047 - INFO - Opening results.json
+2024-09-26 21:27:45,065 - INFO - Using cached results from today
+2024-09-26 21:27:45,073 - INFO - Writing new results to results.json
+2024-09-26 21:27:45,075 - INFO - get_sprinkler_message function execution completed
+2024-09-26 21:27:45,091 - INFO - 127.0.0.1 - - [26/Sep/2024 21:27:45] "GET /get_message HTTP/1.1" 200 -
+2024-09-26 21:27:52,979 - INFO - 127.0.0.1 - - [26/Sep/2024 21:27:52] "GET / HTTP/1.1" 200 -
+2024-09-26 22:47:14,900 - INFO - 127.0.0.1 - - [26/Sep/2024 22:47:14] "GET / HTTP/1.1" 200 -
+2024-09-26 22:49:53,053 - INFO -  * Detected change in '/Users/jonathanbaptiste/Desktop/Projects/Sprinkler/app.py', reloading
+2024-09-26 22:49:53,432 - INFO -  * Restarting with stat
+2024-09-26 22:49:54,971 - WARNING -  * Debugger is active!
+2024-09-26 22:49:55,004 - INFO -  * Debugger PIN: 116-280-417
